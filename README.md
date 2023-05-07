@@ -1,0 +1,1 @@
+# 1Pyhton-Secim-tahmin
